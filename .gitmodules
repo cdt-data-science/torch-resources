@@ -1,0 +1,18 @@
+[submodule "oxford/practical1"]
+	path = oxford/practical1
+	url = https://github.com/oxford-cs-ml-2015/practical1.git
+[submodule "oxford/practical2"]
+	path = oxford/practical2
+	url = https://github.com/oxford-cs-ml-2015/practical2.git
+[submodule "oxford/practical3"]
+	path = oxford/practical3
+	url = https://github.com/oxford-cs-ml-2015/practical3.git
+[submodule "oxford/practical4"]
+	path = oxford/practical4
+	url = https://github.com/oxford-cs-ml-2015/practical4.git
+[submodule "oxford/practical5"]
+	path = oxford/practical5
+	url = https://github.com/oxford-cs-ml-2015/practical5.git
+[submodule "oxford/practical6"]
+	path = oxford/practical6
+	url = https://github.com/oxford-cs-ml-2015/practical6.git
